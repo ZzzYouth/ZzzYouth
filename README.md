@@ -33,7 +33,7 @@
 
 ### My CV
 
-✅ Вот ссылка на мой [CV](https://drive.google.com/file/d/1JYaMDyKj9ezBUsHtaLM38Xgp72Cp21RS/view?usp=sharing).
+✅ Вот ссылка на мой [CV](https://drive.google.com/file/d/1JYaMDyKj9ezBUsHtaLM38Xgp72Cp21RS/view?usp=sharing) 
 
 ### Languages and Tools
 
